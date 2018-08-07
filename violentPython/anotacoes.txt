@@ -1,0 +1,4 @@
+#instalação de pacotes da maneira facil: easy_install
+
+#instalcao da forma mais especifica: wget "link" "pacote"
+*deve funcionar com curl tb
