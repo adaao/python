@@ -6,16 +6,19 @@ e antecessor
 '''
 
 '''
+FEITO
 Crie um algoritmo que leia um numero e mostre o seu
 dobro, triplo e raiz quadrada.
 '''
 
 '''
+FEITO
 Desenvolva um programa que leia as duas notas de um aluno,
 calcule e mostre a sua média
 '''
 
 '''
+FEITO
 Escreva um programa que leia um valor em metros e o exiba
 convertido em centímetros e milimetros
 '''
