@@ -24,11 +24,13 @@ convertido em centímetros e milimetros
 '''
 
 '''
+FEITO
 faça um programa que leia um numero inteiro 
 qualquer e mostre na tela a sua tabuada
 '''
 
 '''
+FEITO
 Crie um programa que leia quanto dinheiro uma pessoa tem na 
 carteira e mostre quantos Dólares ela pode comprar.
 considere U$1.00 = R$3.27
