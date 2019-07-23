@@ -8,7 +8,7 @@ from random import randrange, choice
 alunos = []
 
 for x in range(4):
-    alunos.append(input('Degite o nomw de um aluno: '))
+    alunos.append(input('Degite o nome de um aluno: '))
 
 '''                                                 poderia ser random.choice(alunos)'''
 print('O aluno escolhido para apagar o quadro é {}'.format(alunos[randrange(4)]))
