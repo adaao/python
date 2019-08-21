@@ -10,5 +10,5 @@ nome = input('Digite o nome: ')
 
 print(nome.upper())
 print(nome.lower())
-print(nome.replace(' ', ''))
+print(nome.replace(' ', '').__len__())
 print(nome.split()[0].__len__())

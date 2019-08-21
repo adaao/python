@@ -25,11 +25,11 @@ diga se ela começa ou não com o nome "Santo".
 
 '''
 025 - Crie um programa que leia o nome de uma pessoa e
-diga se ela em "Silva" no nome.
+diga se ela tem "Silva" no nome.
 '''
 
 '''
-Faça um programa que leia uma frase pelo 
+026 - Faça um programa que leia uma frase pelo 
 teclado e mostre:
 
 Quatas vezes aparece a letra "A";
@@ -40,7 +40,7 @@ Em que posição ela aparece a última vez.
 '''
 
 '''
-026 - Faça um programa que leia o nome completo 
+027 - Faça um programa que leia o nome completo 
 de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente.
 Ex.: Ana Maria de Souza
 primeiro = Ana
