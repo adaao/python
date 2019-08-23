@@ -37,6 +37,13 @@ def sem_recursividade():
     num = int(num) % 10
     unidade = int(num) / 1
 
+    """
+    outra forma
+    u = num // 1000 % 10
+    d = num // 100 % 10
+    c = num // 10 % 10
+    m = num // 1 % 10
+    """
     print('milhar:  {}'.format(math.floor(milhar)))
     print('centena: {}'.format(math.floor(centena)))
     print('dezena:  {}'.format(math.floor(dezena)))

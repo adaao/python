@@ -6,9 +6,7 @@ primeiro = Ana
 último = Souza
 """
 
-nome = input('Nome: ')
+nome = input('Nome: ').strip().split()
 
-splitedNome = nome.split()
-
-print('primeiro nome: {}'.format(splitedNome[0]))
-print('ultimo nome: {}'.format(splitedNome[-1]))
+print('primeiro nome: {}'.format(nome[0]))
+print('ultimo nome: {}'.format(nome[-1]))

@@ -5,7 +5,7 @@ diga se ela tem "Silva" no nome.
 
 nome = input('nome da pessoa: ')
 
-if 'Silva' in nome:
+if 'silva' in nome.lower():
     print('O nome tem \"Silva\"')
 else:
     print('O nome não tem \"Silva\"')
