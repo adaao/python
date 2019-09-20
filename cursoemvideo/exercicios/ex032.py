@@ -15,6 +15,7 @@ def is_multiplo_de_4(ano):
 def is_multiplo_de_400(ano):
     return ano % 400 == 0
 
+
 def is_multiplo_de_100(ano):
     return ano % 100 == 0
 
