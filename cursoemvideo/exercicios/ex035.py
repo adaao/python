@@ -16,7 +16,7 @@ def is_triangulo(a, b, c):
 
 
 def modulo(x):
-    return (lambda n: n ** 1/2)(x ** 2)
+    return (lambda n: n ** (1/2))(x ** 2)
 
 
 def responde_se_e_triangulo(a, b, c):
